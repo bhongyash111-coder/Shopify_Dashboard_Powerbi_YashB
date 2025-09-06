@@ -1,5 +1,6 @@
 
 
+
 # 🛍️ Shopify | Sales & Customer Funnel Report Dashboard
 
 An interactive 2-page dashboard built using **Power BI** to analyze Shopify sales, customer behavior, and retention patterns. Data is extracted from Shopify, cleaned and processed using **Pandas**, and visualized through **Seaborn** and **Matplotlib**.
@@ -40,10 +41,10 @@ An interactive 2-page dashboard built using **Power BI** to analyze Shopify sale
 ## 📊 Dashboard Snapshots
 
 ### 🔹 Page 1 - Main Funnel Dashboard  
-![Homepage](https://github.com/bhongyash111-coder/Shopify_Dashboard_Powerbi_YashB/blob/main/Home.png)
+![Homepage](https://github.com/bhongyash111-coder/Shopify_Dashboard_Powerbi_YashB/blob/main/Shopify-Dashboard/Home.png)
 
 ### 🔹 Page 2 - Customer Details View  
-![Page 2](https://github.com/bhongyash111-coder/Shopify_Dashboard_Powerbi_YashB/blob/main/page2.png)
+![Page 2](https://github.com/bhongyash111-coder/Shopify_Dashboard_Powerbi_YashB/blob/main/Shopify-Dashboard/page2.png)
 
 ---
 
@@ -71,4 +72,6 @@ I'm **Yash Bhong**, passionate about turning raw data into actionable insights. 
 Connect with me on [linkdin](https://www.linkedin.com/in/yash-bhong-7a1077370/)!
 
 ---
+
+
 
